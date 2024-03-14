@@ -17,6 +17,9 @@ Welcome to the Clock App repository, a project created as part of the Programmin
 
 # Install Anoher Package : 
 
+1. yarn global add expo-cli
+
+
 
 
 
