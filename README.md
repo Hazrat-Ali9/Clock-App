@@ -15,7 +15,7 @@ Welcome to the Clock App repository, a project created as part of the Programmin
 2. npx expo install 
 3. npx expo start
 
-# Install Anoher Package : 
+# Install Another Package : 
 
 1. yarn global add expo-cli
 2. npm install expo-cli --global
