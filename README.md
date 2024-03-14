@@ -13,6 +13,7 @@ Welcome to the Clock App repository, a project created as part of the Programmin
 
 1. Clone the repository
 2. npx expo install 
+3. npx expo start
 
 
 
