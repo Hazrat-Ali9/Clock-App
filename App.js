@@ -226,3 +226,5 @@ export default function App() {
     </ImageBackground>
   );
 }
+
+// apps js
