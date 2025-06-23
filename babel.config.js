@@ -4,3 +4,5 @@ module.exports = function(api) {
     presets: ['babel-preset-expo'],
   };
 };
+
+// Babel Config
